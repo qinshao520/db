@@ -1,6 +1,6 @@
-本地包版本:20240519
-作者:道长
-QQ群:824179147
+版本:20240713
+作者:
+QQ群:
 PC:zyplayer 与 Mobile:easybox 通用
 easybox 支持网盘源播放，如阿里土豆。zyplayer暂不支持
 
@@ -12,9 +12,8 @@ http://127.0.0.1:9978/api/v1/file/drpy_dzlive/
 
 C:\Users\XXXXX\AppData\Roaming\zyplayer\file
 
-道长在线
 
-https://github.com/hjdhnx/hipy-server/tree/master/app/t4/files/drpy_js
+
 
 
 注意: 推荐使用 zyplayer3.3.5 0519-1 及以上版本
